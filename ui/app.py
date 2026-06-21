@@ -466,8 +466,8 @@ def main():
         layout="wide",
         initial_sidebar_state="expanded",
         menu_items={
-            'Get Help': 'https://github.com/bodzz/data-explorer-pro',
-            'Report a bug': 'https://github.com/bodzz/data-explorer-pro/issues',
+            'Get Help': 'https://github.com/abdallah-bodzz/data-explorer-pro',
+            'Report a bug': 'https://github.com/abdallah-bodzz/data-explorer-pro/issues',
             'About': f"""
             # Data Explorer Pro v{VERSION}
             
