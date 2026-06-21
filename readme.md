@@ -11,7 +11,7 @@
 
 ---
 
-![Data Explorer Pro Landing Page](assets\screenshots\landing.jpg)
+![Data Explorer Pro Landing Page](assets/screenshots/landing.jpg)
 
 ---
 
